@@ -1,0 +1,55 @@
+# Epcot Food
+
+- Akershus Royal Banquet Hall
+- Biergarten Restaurant
+- Block & Hans
+- Chefs de France
+- Connections Cafe
+- Connections Eatery
+- Coral Reef Restaurant
+- Festival Favorites
+- Fife & Drum Tavern
+- Funnel Cake
+- Garden Grill Restaurant
+- Gelateria Toscana
+- Joy of Tea
+- Kabuki Cafe
+- Katsura Grill
+- Kringla Bakeri Og Kafe
+- La Cantina de San Angel
+- La Creperie de Paris
+- La Hacienda de San Angel
+- The Land Cart
+- L'Artisan des Glaces
+- Le Cellier Steakhouse
+- Les Halles Boulangerie-Patisserie
+- Les Vins des Chefs de France
+- Lotus Blossom Cafe
+- Monsieur Paul
+- Nine Dragons Restaurant
+- Oasis Sweets & Sips
+- The Odyssey
+- Pizza al Taglio
+- Popcorn in Canada
+- Refreshment Outpost
+- Refreshment Port
+- Refreshment Station
+- Regal Eagle Smokehouse
+- Restaurant Marrakesh
+- Rose & Crown Dining Room
+- Rose & Crown Pub
+- San Angel Inn Restaurante
+- Shiki-Sai: Sushi Izakaya
+- Sommerfest
+- Space 220 Lounge
+- Space 220 Restaurant
+- Spice Road Table
+- Sunshine Seasons
+- Takumi-Tei
+- Tangierine Cafe
+- Teppan Edo
+- Tutto Italia Ristorante
+- UK Beer Cart
+- Via Napoli Ristorante e Pizzeria
+- **Yorkshire County Fish Ship**
+
