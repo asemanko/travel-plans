@@ -9,7 +9,7 @@
 - Guardians of the Galaxy: Cosmic Rewind
 - House of the Whispering Willows
 - Journey Into Imagination With Figment
-- **Journey of Water**
+- Journey of Water
 - Living with the Land
 - Mission: SPACE
 - Project Tomorrow: Inventing the Wonders of the Future
