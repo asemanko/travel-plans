@@ -1,0 +1,33 @@
+# Magic Kingdom Food
+
+- Aloha Isle
+- Auntie Gravity's Galactic Goodies
+- Be Our Guest Restaurant
+- Casey's Corner
+- Cheshire Cafe
+- Cinderella's Royal Table
+- Columbia Harbour House
+- Cool Ship
+- Cosmic Ray's Starlight Cafe
+- The Crystal Palace
+- The Diamond Horseshoe
+- The Friary's Nook
+- Gaston's Tavern
+- Golden Oak Outpost
+- Jungle Navigation Co. LTD Skipper Canteen
+- Liberty Square Market
+- Liberty Tree Tavern
+- The Lunching Pad
+- Main Street Bakery
+- Pecos Bill Tall Tale Inn and Cafe
+- Pinocchio Village Haus
+- Plaza Ice Cream Parlor
+- The Plaza Restaurant
+- Prince Eric's Village Market
+- Sleepy Hollow
+- Storybook Treats
+- Sunshine Tree Terrace
+- Tomorrowland Terrace Restaurant
+- Tony's Town Square Restaurant
+- Tortuga Tavern
+- Westward Ho
