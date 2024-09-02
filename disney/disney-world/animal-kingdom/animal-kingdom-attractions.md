@@ -1,5 +1,4 @@
-# Animal Kingdom
-
+# Animal Kingdom Attractions
 
 
 - Animal Encounters: Winged Encounters - The Kingdom Takes Flight

@@ -1,4 +1,4 @@
-# Hollywood Studios
+# Hollywood Studios Attractions
 
 
 - Alien Swirling Saucers
@@ -16,4 +16,4 @@
 - Toy Story Mania!
 - Tower of Terror
 - Vacation Fun - Animated Short
-- 
+
