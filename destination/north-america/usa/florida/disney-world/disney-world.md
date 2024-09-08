@@ -1,4 +1,13 @@
 # Disney World
 
-[2024 Trip]()
+Parks
+- Animal Kingdom
+- Magic Kingdom
+- Hollywood Studios
+- Epcot
+
+Water Parks
+- Blizzard Beach
+- Typhoon Lagoon
+
 
