@@ -1,12 +1,16 @@
 ## WDW 2024 Epcot
 
+[Overview](https://github.com/asemanko/travel-plans/blob/master/destination/north-america/usa/florida/disney-world/epcot/epcot.md)  
+[Attractions](https://github.com/asemanko/travel-plans/blob/master/destination/north-america/usa/florida/disney-world/epcot/epcot-attractions.md)  
+[Dining](https://github.com/asemanko/travel-plans/blob/master/destination/north-america/usa/florida/disney-world/epcot/epcot-dining.md)
 
-Strategy
 
-- 
+### Strategy
+
+TPD
 
 
-Rides
+### Completion / Prioritization
 
 |Ride|Noel|Joey|Holly|Nick|Andy|
 |----|----|----|-----|----|----|
@@ -26,4 +30,6 @@ Rides
 |Spaceship Earth|&check;|&check;|&check;|&check;|L &check;|
 |Turtle Talk|&check;| |&check;| | L|
 |Voices of Liberty| | | | | L|
+
+<small>H = High, M = Medium, L = Low, S = Skip</small>
 

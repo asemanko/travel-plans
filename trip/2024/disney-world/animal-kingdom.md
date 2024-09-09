@@ -1,8 +1,16 @@
 ## WDW 2024 Animal Kingdom
 
+[Overview](https://github.com/asemanko/travel-plans/blob/master/destination/north-america/usa/florida/disney-world/animal-kingdom/animal-kingdom.md)  
+[Attractions](https://github.com/asemanko/travel-plans/blob/master/destination/north-america/usa/florida/disney-world/animal-kingdom/animal-kingdom-attractions.md)  
+[Dining](https://github.com/asemanko/travel-plans/blob/master/destination/north-america/usa/florida/disney-world/animal-kingdom/animal-kingdom-dining.md)
 
 
-Rides
+### Strategy
+
+TPD
+
+
+### Completion / Prioritization
 
 |                 |Noel|Joey|Holly|Nick|Andy|
 |-----------------|----|----|-----|----|----|
@@ -25,6 +33,8 @@ Rides
 |Na'vi River|&check;|&check;|&check;|&check;|L/M &check;|
 |TriceraTop Spin| | | | |L|
 |Winged Encounters| | | | |L|
+
+<small>H = High, M = Medium, L = Low, S = Skip</small>
 
 
 Others (?):

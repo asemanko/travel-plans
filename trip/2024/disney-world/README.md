@@ -12,5 +12,3 @@ Parks
 
 [Budget](https://github.com/asemanko/travel-plans/blob/master/trip/2024/disney-world/budget.md)
 
-
-

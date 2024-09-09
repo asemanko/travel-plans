@@ -1,5 +1,16 @@
 # WDW 2024 Hollywood Studios
 
+[Overview](https://github.com/asemanko/travel-plans/blob/master/destination/north-america/usa/florida/disney-world/hollywood-studios/hollywood-studios.md)  
+[Attractions](https://github.com/asemanko/travel-plans/blob/master/destination/north-america/usa/florida/disney-world/hollywood-studios/hollywood-studios-attractions.md)  
+[Dining](https://github.com/asemanko/travel-plans/blob/master/destination/north-america/usa/florida/disney-world/hollywood-studios/hollywood-studios-dining.md)
+
+
+### Strategy
+
+TPD
+
+
+### Completion / Prioritization
 
 |Ride|Noel|Joey|Holly|Nick|Andy|
 |----|----|----|-----|----|----|
@@ -19,5 +30,5 @@
 |Tower of Terror| |&check;|&check;|&check;|M &check;|
 |Vacation Fun| | | | |L|
 
-CLOSED: Lightning McQueen's
+<small>H = High, M = Medium, L = Low, S = Skip</small>
 
