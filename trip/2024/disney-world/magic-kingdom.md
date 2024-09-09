@@ -1,17 +1,28 @@
 ## WDW 2024 Magic Kingdom
 
-
-Strategy
-
-- Morning
-  - Tiana's
-  - Big Thunder RR
-  - Pirates of the Caribbean
-- ILL
-  - TRON
+[Overview](https://github.com/asemanko/travel-plans/blob/master/destination/north-america/usa/florida/disney-world/magic-kingdom/magic-kingdom.md)  
+[Attractions](https://github.com/asemanko/travel-plans/blob/master/destination/north-america/usa/florida/disney-world/magic-kingdom/magic-kingdom-attractions.md)  
+[Dining](https://github.com/asemanko/travel-plans/blob/master/destination/north-america/usa/florida/disney-world/magic-kingdom/magic-kingdom-dining.md)
 
 
-### Priorities
+### Strategy
+
+TPD
+
+[comment]: <> (- Morning)
+
+[comment]: <> (  - Tiana's)
+
+[comment]: <> (  - Big Thunder RR)
+
+[comment]: <> (  - Pirates of the Caribbean)
+
+[comment]: <> (- ILL)
+
+[comment]: <> (  - TRON)
+
+
+### Completion / Prioritization
 
 |Ride|Noel|Joey|Holly|Nick|Andy|
 |----|----|----|-----|----|----|
@@ -43,4 +54,6 @@ Strategy
 |Tomorrowland Speedway| | | | |L|
 |TRON| |H|H|H|H|
 |Winnie the Pooh| | | | |L|
+
+<small>H = High, M = Medium, L = Low, S = Skip</small>
 
