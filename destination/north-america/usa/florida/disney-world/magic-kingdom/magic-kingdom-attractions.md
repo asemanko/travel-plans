@@ -1,4 +1,4 @@
-# Magic Kingdom Attractions
+## Magic Kingdom Attractions
 
 
 |           | Area | LL | Duration | Notes |

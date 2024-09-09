@@ -1,7 +1,7 @@
 # Epcot
 
 - [Attractions](https://github.com/asemanko/travel-plans/blob/master/destination/north-america/usa/florida/disney-world/epcot/epcot-attractions.md)
-- [Food](https://github.com/asemanko/travel-plans/blob/master/destination/north-america/usa/florida/disney-world/epcot/epcot-food.md)
+- [Food](https://github.com/asemanko/travel-plans/blob/master/destination/north-america/usa/florida/disney-world/epcot/epcot-dining.md)
 
 
 ### Areas
