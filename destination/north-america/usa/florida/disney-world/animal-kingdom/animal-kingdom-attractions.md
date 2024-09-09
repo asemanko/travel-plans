@@ -28,14 +28,3 @@
 |[Winged Encounters - The Kingdom Takes Flight](https://disneyworld.disney.go.com/entertainment/animal-kingdom/winged-encounters/)|Discovery Island| | |
 |[Wildlife Express Train](https://disneyworld.disney.go.com/attractions/animal-kingdom/wildlife-express-train/)|Africa| |7m| |
 
-
-Areas
-
-- Africa
-- Asia
-- Dinoland
-- Discovery Island
-- Oasis
-- Pandora
-- Rafiki's Planet Watch
-
