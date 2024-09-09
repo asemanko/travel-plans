@@ -55,5 +55,5 @@ TPD
 |TRON| |H|H|H|H|
 |Winnie the Pooh| | | | |L|
 
-<small>H = High, M = Medium, L = Low, S = Skip</small>
+<small>[H = High, M = Medium, L = Low, S = Skip](https://github.com/asemanko/travel-plans/blob/master/trip/2024/disney-world/prioritization.md) </small>
 
