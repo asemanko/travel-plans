@@ -3,7 +3,7 @@
 
 ### Trips
 
-- [Disney World 2024](https://github.com/asemanko/travel-plans/blob/master/trip/2024/disney-world/disney-world-2024.md)
+- [Disney World 2024](https://github.com/asemanko/travel-plans/blob/master/trip/2024/disney-world/README.md)
 
 
 ### Destinations

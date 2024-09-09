@@ -1,16 +1,83 @@
 # Animal Kingdom
 
-- [Attractions]()
-- [Food]()
+- [Attractions](https://github.com/asemanko/travel-plans/blob/master/destination/north-america/usa/florida/disney-world/animal-kingdom/animal-kingdom-attractions.md)
+- [Dining](https://github.com/asemanko/travel-plans/blob/master/destination/north-america/usa/florida/disney-world/animal-kingdom/animal-kingdom-dining.md)
 
 
 ## Areas
 
-- Africa
-- Asia
-- Dinoland
-- Discovery Island
-- Oasis
-- Pandora
-- Rafiki's Planet Watch
+- **Main Entrance**
+  - Dining
+    - Rainforest Cafe
+- **Discovery Island**
+  - Attractions
+    - Awakenings
+    - Discovery Island Trails
+    - It's Tough to be a Bug!
+    - Tree of Life
+    - Winged Encounters
+  - Dining
+    - Creature Comforts
+    - Eight Spoon Cafe
+    - Flame Tree Barbecue
+    - Isle of Java
+    - Nomad Lounge
+    - Pizzafari
+    - The Smiling Crocodile
+    - Terra Treats
+    - Tiffins Restaurant
+- **Africa**
+  - Attractions
+    - Festival of the Lion King
+    - Gorilla Falls Exploration Trail
+    - Kilimanjaro Safaris
+    - Wildlife Express Train
+  - Dining
+    - Dawa Bar
+    - Harambe Fruit Market
+    - Harambe Market
+    - Kusafiri Coffee Shop & Bakery
+    - Mahindi
+    - Tamu Tamu Refreshments
+    - Tusker House Restaurant
+- **Asia**
+  - Attractions
+    - Expedition Everest
+    - Feathered Friends in Flight!
+    - Kali River Rapids
+    - Maharajah Jungle Trek
+  - Dining
+    - Anandapur Ice Cream Truck
+    - Caravan Road
+    - Drinkwallah
+    - Thirsty River Bar
+    - Trek Snacks
+    - Warung Outpost
+    - Yak & Yeti Local Food Cafes
+    - Yak & Yeti Quality Beverages
+    - Yak & Yeti Restaurant
+- **DinoLand USA**
+  - Attractions
+    - The Boneyard
+    - DINOSAUR
+    - Dino-Sue
+    - Finding Nemo
+    - TriceraTop Spin
+  - Dining
+- **Oasis**
+  - Attractions
+    - The Oasis Exhibits
+  - Dining
+- **Pandora**
+  - Attractions
+    - Avatar Flight of Passage
+    - Na'vi River Journey
+  - Dining
+    - Pongu Pongu
+    - Satu'li Canteen
+- **Rafiki's Planet Watch**
+  - Attractions
+    - Affection Section
+    - The Animation Experience
+    - Conservation Station
 

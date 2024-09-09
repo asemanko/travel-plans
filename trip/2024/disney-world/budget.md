@@ -9,8 +9,8 @@
 |Park Meals      |*$400*|*$800*|
 |LL Multi Pass   |$60|$156|
 |LL Single Passes|$14|$50|
-|Tampa Family    |$375<sup>1</sup>|$654<sup>2</sup>|<sup>1</sup>dinner, <sup>2</sup> 6 park passes|
+|Tampa Family    |$375|$654|Dinner or 6 park passes|
 | ---            |---|---|
 |Total           |$2,975.45|$3,654.45|
 
-<small><sup>1</sup>dinner, <sup>2</sup> 6 park passes</small>
+

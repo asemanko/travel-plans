@@ -1,4 +1,4 @@
-# Epcot Attractions
+## Epcot Attractions
 
 
 |           | Area | LL | Duration | Notes |

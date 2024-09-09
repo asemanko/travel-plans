@@ -8,21 +8,21 @@ Rides
 |-----------------|----|----|-----|----|----|
 |Affection Section| | | | |L|
 |Animation Experience| | | | |S/L|
-|Avatar Flight of Passage| |&check;|&check;|&check;|L/M &check;|
+|Avatar| |&check;|&check;|&check;|L/M &check;|
 |Boneyard|?|S|S|S|S|
 |Conservation Station| | | | |S/L|
 |DINOSAUR| | | | |M/H|
-|Discovery Island Trails| | | | |?|
+|Discovery Isl Trails| | | | |?|
 |Expedition Everest| |&check;|&check;|&check;|M &check;|
 |Gorilla Falls Trail| | | | |?|
 |Kilimanjaro Safaris|&check;|&check;|&check;|&check;|&check;|
-|Feathered Friends in Flight| | | | |M|
-|Festival of the Lion King|&check;|&check;|&check;|&check;|L &check;|
+|Feathered Friends| | | | |M|
+|Lion King|&check;|&check;|&check;|&check;|L &check;|
 |Finding Nemo| | | | |?|
-|It's Tough to be a Bug!|&check;|&check;|&check;|&check;|L &check;|
+|Tough to be a Bug|&check;|&check;|&check;|&check;|L &check;|
 |Kali River Rapids| | | | |M|
-|Maharajah Jungle Trek| | | | |?|
-|Na'vi River Journey|&check;|&check;|&check;|&check;|L/M &check;|
+|Maharajah Trek| | | | |?|
+|Na'vi River|&check;|&check;|&check;|&check;|L/M &check;|
 |TriceraTop Spin| | | | |L|
 |Winged Encounters| | | | |L|
 
