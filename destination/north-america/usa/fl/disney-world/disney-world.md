@@ -12,4 +12,3 @@ Water Parks
 
 [Resorts](https://github.com/asemanko/travel-plans/blob/master/destination/north-america/usa/fl/disney-world/resorts/resorts.md)
 
-
