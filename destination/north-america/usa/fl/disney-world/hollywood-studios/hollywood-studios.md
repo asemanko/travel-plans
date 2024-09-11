@@ -1,7 +1,7 @@
 # Hollywood Studios
 
-- [Attractions](https://github.com/asemanko/travel-plans/blob/master/destination/north-america/usa/florida/disney-world/hollywood-studios/hollywood-studios-attractions.md)
-- [Food](https://github.com/asemanko/travel-plans/blob/master/destination/north-america/usa/florida/disney-world/hollywood-studios/hollywood-studios-dining.md)
+- [Attractions](https://github.com/asemanko/travel-plans/blob/master/destination/north-america/usa/fl/disney-world/hollywood-studios/hollywood-studios-attractions.md)
+- [Food](https://github.com/asemanko/travel-plans/blob/master/destination/north-america/usa/fl/disney-world/hollywood-studios/hollywood-studios-dining.md)
 
 
 ## Areas
