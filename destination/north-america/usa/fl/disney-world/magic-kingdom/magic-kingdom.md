@@ -1,7 +1,7 @@
 # Magic Kingdom
 
-- [Attractions](https://github.com/asemanko/travel-plans/blob/master/destination/north-america/usa/florida/disney-world/magic-kingdom/magic-kingdom-attractions.md)
-- [Dining](https://github.com/asemanko/travel-plans/blob/master/destination/north-america/usa/florida/disney-world/magic-kingdom/magic-kingdom-dining.md)
+- [Attractions](https://github.com/asemanko/travel-plans/blob/master/destination/north-america/usa/fl/disney-world/magic-kingdom/magic-kingdom-attractions.md)
+- [Dining](https://github.com/asemanko/travel-plans/blob/master/destination/north-america/usa/fl/disney-world/magic-kingdom/magic-kingdom-dining.md)
 
 
 ## Areas

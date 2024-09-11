@@ -1,59 +1,78 @@
 ## WDW 2024 Magic Kingdom
 
-[Overview](https://github.com/asemanko/travel-plans/blob/master/destination/north-america/usa/florida/disney-world/magic-kingdom/magic-kingdom.md)  
-[Attractions](https://github.com/asemanko/travel-plans/blob/master/destination/north-america/usa/florida/disney-world/magic-kingdom/magic-kingdom-attractions.md)  
-[Dining](https://github.com/asemanko/travel-plans/blob/master/destination/north-america/usa/florida/disney-world/magic-kingdom/magic-kingdom-dining.md)
+[Overview](https://github.com/asemanko/travel-plans/blob/master/destination/north-america/usa/fl/disney-world/magic-kingdom/magic-kingdom.md)  
+[Attractions](https://github.com/asemanko/travel-plans/blob/master/destination/north-america/usa/fl/disney-world/magic-kingdom/magic-kingdom-attractions.md)  
+[Dining](https://github.com/asemanko/travel-plans/blob/master/destination/north-america/usa/fl/disney-world/magic-kingdom/magic-kingdom-dining.md)
 
 
 ### Strategy
 
-TPD
+Rope Drop
+- Tiana's
+- Big Thunder RR
+- Pirates of the Caribbean
 
-[comment]: <> (- Morning)
+Arrival Window
+- Lightning Lane Single Pass
+  - TRON
+  - Seven Dwarfs Mine Train
+- Lightning Lane Multi Pass
+  - Space Mountain
+  - Big Thunder Mountain RR
+  - Jungle Cruise
+  - Pirates
+  - Barnstormer
+  - Mad Tea Party
 
-[comment]: <> (  - Tiana's)
+Filler
+- Tom Sawyer Island
+- Country Bear Jamboree
+- Mad Tea Party
+- Barnstormer
+- Haunted Mansion
+- "it's a small world"
+- Magic Carpets
+- Winnie the Pooh
+- 
 
-[comment]: <> (  - Big Thunder RR)
 
-[comment]: <> (  - Pirates of the Caribbean)
+### Preference & Completion Chart
 
-[comment]: <> (- ILL)
+| Attraction                |Noel|Joey|Holly|Nick|Andy| Consensus |
+|---------------------------|----|----|-----|----|----|-----------|
+|Adventure Friends Cavalcade| |L|L|L|L|
+|Astro Orbiter              | |M|S|L|L|
+|Barnstormer                | |M/H|H|H|L|
+|Big Thunder Mtn RR         | |H &check;|&check;|&check;|M &check;|
+|Buzz Lightyear          | |L|L|L|S &check;|
+|Carousel of Progress    | |L &check;|L|L &check;|L &check;|
+|Cinderella Castle Walkaround| |L|M|L|L/M|
+|Country Bear Jamboree   | |L|L|M/H|H|
+|Dumbo                   | |L/M|L/M|L|L|
+|Hall of Presidents      | |L/M|H|H|M|
+|Haunted Mansion         |&check;|H &check;|H &check;|M &check;|L/M &check;|
+|it's a small world      |&check;|S &check;|S &check;|L &check;|M &check;|
+|Jungle Cruise           |&check;|&check;|&check;|&check;|S &check;|
+|Liberty Sq Riverboat    |&check;|L &check;|H &check;|L &check;|M &check;|
+|Mad Tea Party           |&check;|L &check;|S|M/L &check;|H &check;|
+|Main St Vehicles        | |L|L|L|L|
+|Magic Carpets           | |M|L|L|L|
+|Monsters Inc.           | |L|L|L|L &check;|
+|PeopleMover             |&check;|M/L &check;|M &check;|L &check;|L &check;|
+|Peter Pan               |&check; |L &check; |L/M &check; |L &check; |L/M &check;|
+|Pirates Adventure       | |M/L|M/L|M/L|S/L|
+|Pirates of the Caribbean| &check;|H &check;|H &check;|M &check;|H &check;|
+|Prince Charming Carousel| |L|L|L|L|
+|Seven Dwarfs Mine Train |&check;|H &check;|M &check;|M &check;|M &check;|
+|Space Mountain          |S|H &check;|L &check;|M &check;|H &check;|
+|Swiss Family Treehouse  |&check;|L &check;|L &check;|L &check;|S/L &check;|
+|Tiana's                 | |H|H|H|H|
+|Tiki Room|&check;       |L &check;|S &check;|L &check;|S &check;|
+|Tom Sawyer Island       | |L|H|H|H|
+|Tomorrowland Speedway   | |M|L|M|L|
+|TRON                    | |H|H|H|H|
+|Under the Sea           | |L|L|L|L|
+|Winnie the Pooh         | |L|L|L|L|
 
-[comment]: <> (  - TRON)
-
-
-### Completion / Prioritization
-
-|Ride|Noel|Joey|Holly|Nick|Andy|
-|----|----|----|-----|----|----|
-|Astro Orbiter | | | | |L|
-|Barnstormer| | | | |L|
-|Big Thunder Mtn RR| |&check;|&check;|&check;|M &check;|
-|Buzz Lightyear| | | | |S &check;|
-|Carousel of Progress| |&check;| |&check;|L &check;|
-|Country Bear Jamboree| | | | |H|
-|Dumbo| | | | |L|
-|Hall of Presidents| | | | |M|
-|Haunted Mansion|&check;|&check;|&check;|&check;|L/M &check;|
-|it's a small world|&check;|&check;|&check;|&check;|M &check;|
-|Jungle Cruise|&check;|&check;|&check;|&check;|S &check;|
-|Liberty Sq Riverboat|&check;|&check;|&check;|&check;|M &check;|
-|Mad Tea Party|&check;|&check;| |&check;|H &check;|
-|Magic Carpets| | | | |L|
-|Monsters Inc.| | | | |L &check;|
-|PeopleMover|&check;|&check;|&check;|&check;|L &check;|
-|Peter Pan|&check; |&check; |&check; |&check; |L/M &check;|
-|Pirates of the Caribbean| | | | |H &check;|
-|Prince Charming Carousel| | | | |L|
-|Seven Dwarfs Mine Train|&check;|&check;|&check;|&check;|M &check;|
-|Space Mountain| |&check;|&check;|&check;|H &check;|
-|Swiss Family Treehouse|&check;|&check;|&check;|&check;|S &check;|
-|Tiana's| |H|H|H|H|
-|Tiki Room|&check;|&check;|S &check;|&check;|S &check;|
-|Tom Sawyer Island| | | | |H|
-|Tomorrowland Speedway| | | | |L|
-|TRON| |H|H|H|H|
-|Winnie the Pooh| | | | |L|
-
-<small>[H = High, M = Medium, L = Low, S = Skip](https://github.com/asemanko/travel-plans/blob/master/trip/2024/disney-world/prioritization.md) </small>
+<small>[H = High, M = Medium, L = Low, S = Skip](https://github.com/asemanko/travel-plans/blob/master/trip/2024/disney-world/legend.md) </small>
 

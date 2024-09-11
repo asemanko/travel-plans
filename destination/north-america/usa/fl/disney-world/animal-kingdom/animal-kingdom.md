@@ -1,7 +1,7 @@
 # Animal Kingdom
 
-- [Attractions](https://github.com/asemanko/travel-plans/blob/master/destination/north-america/usa/florida/disney-world/animal-kingdom/animal-kingdom-attractions.md)
-- [Dining](https://github.com/asemanko/travel-plans/blob/master/destination/north-america/usa/florida/disney-world/animal-kingdom/animal-kingdom-dining.md)
+- [Attractions](https://github.com/asemanko/travel-plans/blob/master/destination/north-america/usa/fl/disney-world/animal-kingdom/animal-kingdom-attractions.md)
+- [Dining](https://github.com/asemanko/travel-plans/blob/master/destination/north-america/usa/fl/disney-world/animal-kingdom/animal-kingdom-dining.md)
 
 
 ### Areas
