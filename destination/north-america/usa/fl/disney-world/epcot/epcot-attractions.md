@@ -32,3 +32,22 @@
 |[**Turtle Talk** with Crush](https://disneyworld.disney.go.com/attractions/epcot/turtle-talk-with-crush/)|World Nature| |10m| |
 |[Voices of Liberty](https://disneyworld.disney.go.com/entertainment/epcot/voices-of-liberty/)|America| |15m| |
 
+
+## Lightning Lane
+
+- Single Pass
+  - Guardians of the Galaxy
+- Multi Pass
+  - Tier 1
+    - Frozen Ever After
+    - Remy
+    - Soarin' Around the World
+  - Tier 2
+    - Disney and Pixar Short Film Festival
+    - Journey into Imagination
+    - Living with the Land
+    - Mission: SPACE
+    - The Seas with Nemo & Friends
+    - Spaceship Earth
+    - Turtle Talk
+

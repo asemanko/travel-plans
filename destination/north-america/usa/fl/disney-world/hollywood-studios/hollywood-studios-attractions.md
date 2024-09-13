@@ -26,3 +26,25 @@
 
 [<small>LL = Lightning Lane, S = LL Single Pass, M1 = LL Multi Pass tier 1, M2 = LL Multi Pass tier 2</small>]()
 
+
+### Lightning Lane
+
+- Single Pass
+  - Star Wars: Rise of the Resistance
+- Multi Pass
+  - Tier 1
+    - Mickey & Minnie's Runaway Railway
+    - Millennium Falcon: Smuggler's Run
+    - Rock 'n' Roller Coaster
+    - Slinky Dog Dash
+  - Tier 2
+    - Alien Swirling Saucers
+    - Beauty and the Beast
+    - Disney Jr. Play & Dance!
+    - For the First Time in Forever
+    - Indiana Jones
+    - MuppetVision
+    - Star Tours
+    - Tower of Terror
+    - Toy Story Mania!
+
