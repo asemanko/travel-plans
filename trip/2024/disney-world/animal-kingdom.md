@@ -1,7 +1,7 @@
 ## WDW 2024 Animal Kingdom
 
-[Overview](https://github.com/asemanko/travel-plans/blob/master/destination/north-america/usa/fl/disney-world/animal-kingdom/animal-kingdom.md)  
-[Attractions](https://github.com/asemanko/travel-plans/blob/master/destination/north-america/usa/fl/disney-world/animal-kingdom/animal-kingdom-attractions.md)  
+[Overview](https://github.com/asemanko/travel-plans/blob/master/destination/north-america/usa/fl/disney-world/animal-kingdom/animal-kingdom.md) &bull;
+[Attractions](https://github.com/asemanko/travel-plans/blob/master/destination/north-america/usa/fl/disney-world/animal-kingdom/animal-kingdom-attractions.md) &bull;
 [Dining](https://github.com/asemanko/travel-plans/blob/master/destination/north-america/usa/fl/disney-world/animal-kingdom/animal-kingdom-dining.md)
 
 
@@ -9,15 +9,14 @@
 
 Rope Drop
 - DINOSAUR
+- Kali River Rapids
 
-Arrival Window
-- Lightning Lane Single Pass
-  - Avatar Flight of Passage
-- Lightning Lane Multi Pass
-  - Feathered Friends
-  - Kali River Rapids
-  - Kilimanjaro Safaris
-  - Expedition Everest
+Fixed Time
+- Avatar Flight of Passage (LLSP)
+- Feathered Friends (LLMP)
+- Kilimanjaro Safaris (LLMP)
+- Expedition Everest (LLMP, single rider line)
+- Kali River Rapids (LLMP)
 
 Filler
 1. Expedition Everest (single rider line)
@@ -26,6 +25,10 @@ Filler
 4. Discovery Island Trails
 5. Winged Encounters
 
+Questionable
+- Conservation Station
+  - Wildlife Express Train
+  - Affection Section
 
 Note: Andy would just skip Pandora altogether but that is not realistic.
 
@@ -35,7 +38,7 @@ Note: Andy would just skip Pandora altogether but that is not realistic.
 | Attraction         |Noel|Joey|Holly|Nick|Andy| Consensus |
 |--------------------|----|----|-----|----|----|-----------|
 |Affection Section   | |L|L|L|L|
-|Animation Experience| |L|S|S|S/L|
+|Animation Experience| |L|S|S|S/L|Skip|
 |Avatar              | |M &check;|M &check;|M/H &check;|L/M &check;|
 |Boneyard            |?|S|S|S|S|Skip|
 |Conservation Station| |L|L|L|S/L|
