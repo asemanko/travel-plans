@@ -1,8 +1,8 @@
 ## Animal Kingdom Attractions
 
 
-|   | Area | LL |Duration|Notes|
-|---|------|----|--------|-----|
+|          | Area | LL |Duration|Notes|
+|----------|------|----|--------|-----|
 |[Affection Section](https://disneyworld.disney.go.com/attractions/animal-kingdom/affection-section/)|Rafiki's| | |Petting zoo at Conservation Station|
 |[The Animation Experience](https://disneyworld.disney.go.com/attractions/animal-kingdom/animation-experience/)|Rafiki's| |25m|Drawing class|
 |[**Avatar** Flight of Passage](https://disneyworld.disney.go.com/attractions/animal-kingdom/avatar-flight-of-passage/)|Pandora|S|5m| |
@@ -21,12 +21,28 @@
 |[Kali River Rapids](https://disneyworld.disney.go.com/attractions/animal-kingdom/kali-river-rapids/)|Asia|M| | |
 |[Kilimanjaro Safaris](https://disneyworld.disney.go.com/attractions/animal-kingdom/kilimanjaro-safaris/)|Africa|M|18m| |
 |[**Maharajah** Jungle Trek](https://disneyworld.disney.go.com/attractions/animal-kingdom/maharajah-jungle-trek/)|Asia| | | |
-|[Na'vi River Journey](https://disneyworld.disney.go.com/attractions/animal-kingdom/navi-river-journey/)|Pandora|M|7m| |
+|[**Na'vi River** Journey](https://disneyworld.disney.go.com/attractions/animal-kingdom/navi-river-journey/)|Pandora|M|7m| |
 |[The Oasis Exhibits](https://disneyworld.disney.go.com/attractions/animal-kingdom/oasis-exhibits/)|Oasis| | | |
 |[Tree of Life](https://disneyworld.disney.go.com/attractions/animal-kingdom/tree-of-life/)|Discovery Island| | | |
 |[TriceraTop Spin](https://disneyworld.disney.go.com/attractions/animal-kingdom/tricera-top-spin/)|DinoLand| | |
-|[Winged Encounters - The Kingdom Takes Flight](https://disneyworld.disney.go.com/entertainment/animal-kingdom/winged-encounters/)|Discovery Island| | |
+|[**Winged Encounters** - The Kingdom Takes Flight](https://disneyworld.disney.go.com/entertainment/animal-kingdom/winged-encounters/)|Discovery Island| | |
 |[Wildlife Express Train](https://disneyworld.disney.go.com/attractions/animal-kingdom/wildlife-express-train/)|Africa| |7m| |
 
 [<small>LL = Lightning Lane, S = LL Single Pass, M = LL Multi Pass, SR = Single Rider Line</small>]()
+
+
+### Lightning Lane
+
+- Single Pass
+  - Avatar Flight of Passage
+- Multi Pass
+  - DINOSAUR
+  - Expedition Everest
+  - Feathered Friends
+  - Festival of the Lion King
+  - Finding Nemo
+  - It's Tough to be a Bug!
+  - Kali River Rapids
+  - Kilimanjaro Safaris
+  - Na'vi River Journey
 

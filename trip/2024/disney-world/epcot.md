@@ -1,7 +1,7 @@
 ## WDW 2024 Epcot
 
-[Overview](https://github.com/asemanko/travel-plans/blob/master/destination/north-america/usa/fl/disney-world/epcot/epcot.md)  
-[Attractions](https://github.com/asemanko/travel-plans/blob/master/destination/north-america/usa/fl/disney-world/epcot/epcot-attractions.md)  
+[Overview](https://github.com/asemanko/travel-plans/blob/master/destination/north-america/usa/fl/disney-world/epcot/epcot.md) &bull;
+[Attractions](https://github.com/asemanko/travel-plans/blob/master/destination/north-america/usa/fl/disney-world/epcot/epcot-attractions.md) &bull;
 [Dining](https://github.com/asemanko/travel-plans/blob/master/destination/north-america/usa/fl/disney-world/epcot/epcot-dining.md)
 
 
@@ -13,24 +13,22 @@ Rope Drop
 3. Living with the Land
 4. Journey of Water
 
-Lightning Lane Single Pass
-- Guardians, 2x
-
-Lightning Lane Multi Pass
-- Frozen
-- Remy
+Fixed Time
+- Guardians (LLSP), 2x
+- Frozen (LLMP)
+- Remy (LLMP)
 
 Filler
-  1. Journey of Water
-  2. Spaceship Earth
-  3. The American Adventure
-  4. Awesome Planet
-  5. Mission: SPACE
-  6. Canada Far and Wide
-  7. Reflections of China
-  8. Gran Fiesta
-  9. Disney and Pixar Short Film Festival
-  10. Impressions of France
+1. Journey of Water
+2. Spaceship Earth
+3. The American Adventure
+4. Awesome Planet
+5. Mission: SPACE
+6. Canada Far and Wide
+7. Reflections of China
+8. Gran Fiesta
+9. Disney and Pixar Short Film Festival
+10. Impressions of France
 
 
 ### Preference & Completion Chart

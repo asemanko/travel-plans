@@ -1,7 +1,7 @@
 # WDW 2024 Hollywood Studios
 
-[Overview](https://github.com/asemanko/travel-plans/blob/master/destination/north-america/usa/fl/disney-world/hollywood-studios/hollywood-studios.md)  
-[Attractions](https://github.com/asemanko/travel-plans/blob/master/destination/north-america/usa/fl/disney-world/hollywood-studios/hollywood-studios-attractions.md)  
+[Overview](https://github.com/asemanko/travel-plans/blob/master/destination/north-america/usa/fl/disney-world/hollywood-studios/hollywood-studios.md) &bull;
+[Attractions](https://github.com/asemanko/travel-plans/blob/master/destination/north-america/usa/fl/disney-world/hollywood-studios/hollywood-studios-attractions.md) &bull;
 [Dining](https://github.com/asemanko/travel-plans/blob/master/destination/north-america/usa/fl/disney-world/hollywood-studios/hollywood-studios-dining.md)
 
 
@@ -10,13 +10,11 @@
 Rope Drop
 - ?
 
-Arrival Windows
-- Lightning Lane Single Pass
-  - Rise of the Resistance
-- Lightning Lane Multi Pass
-  - Runaway Railway
-  - Smuggler's Run
-  - Rock n Roller Coaster
+Fixed Time
+  - Rise of the Resistance (LLSP)
+  - Runaway Railway (LLMP)
+  - Smuggler's Run (LLMP)
+  - Rock n Roller Coaster (LLMP)
 
 Filler
 - Rock n Roll Coaster

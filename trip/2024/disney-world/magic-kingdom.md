@@ -1,7 +1,7 @@
 ## WDW 2024 Magic Kingdom
 
-[Overview](https://github.com/asemanko/travel-plans/blob/master/destination/north-america/usa/fl/disney-world/magic-kingdom/magic-kingdom.md)  
-[Attractions](https://github.com/asemanko/travel-plans/blob/master/destination/north-america/usa/fl/disney-world/magic-kingdom/magic-kingdom-attractions.md)  
+[Overview](https://github.com/asemanko/travel-plans/blob/master/destination/north-america/usa/fl/disney-world/magic-kingdom/magic-kingdom.md) &bull;
+[Attractions](https://github.com/asemanko/travel-plans/blob/master/destination/north-america/usa/fl/disney-world/magic-kingdom/magic-kingdom-attractions.md) &bull;
 [Dining](https://github.com/asemanko/travel-plans/blob/master/destination/north-america/usa/fl/disney-world/magic-kingdom/magic-kingdom-dining.md)
 
 
@@ -12,19 +12,17 @@ Rope Drop
 - Big Thunder RR
 - Pirates of the Caribbean
 
-Arrival Window
-- Lightning Lane Single Pass
-  - TRON
-  - Seven Dwarfs Mine Train
-- Lightning Lane Multi Pass
-  - Space Mountain
-  - Big Thunder Mountain RR
-  - Jungle Cruise
-  - Pirates
-  - Barnstormer
-  - Mad Tea Party
+Fixed Time
+- TRON (LLSP)
+- Seven Dwarfs Mine Train (LLSP)
+- Space Mountain (LLMP)
+- Big Thunder Mountain RR
+- Jungle Cruise
+- Pirates
+- Barnstormer
+- Mad Tea Party
 
-Filler
+Standby
 - Tom Sawyer Island
 - Country Bear Jamboree
 - Mad Tea Party
