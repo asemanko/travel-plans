@@ -12,3 +12,5 @@ Parks
 
 [Budget](https://github.com/asemanko/travel-plans/blob/master/trip/2024/disney-world/budget.md)
 
+
+[Lightning Lane link](https://disneyworld.disney.go.com/lightning-lane-passes/)
