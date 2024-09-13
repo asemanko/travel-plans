@@ -90,13 +90,3 @@
     - The Lunching Pad
     - Tomorrowland Terrace Restaurant
 
-
-| Area  | Attractions | Dining | Other |
-|-------|-------------|--------|-------|
-|Main Street, U.S.A.|&bull; Main Street Vehicles|&bull; Casey's Corner<br>&bull; The Crystal Palace<br>&bull; Tony's Town Square Restaurant<br>&bull; Main Street Bakery<br>&bull; Plaza Ice Cream Parlor<br>&bull; The Plaza Restaurant| |
-|Adventureland|&bull; Enchanted Tiki Room<br>&bull; Swiss Family Treehouse<br>&bull; Pirates of the Caribbean<br>&bull; A Pirate's Adventure<br>&bull; The Magic Carpets of Aladdin<br>&bull; Jungle Cruise|&bull; Aloha Isle<br>&bull; Jungle Navigation Co. LTD Skipper Canteen<br>&bull; Sunshine Tree Terrace<br>&bull; Tortuga Tavern| |
-|Fantasyland|&bull; Barnstormer<br>&bull; Casey Jr. Splash 'N' Soak Station<br>&bull; Cinderella Castle<br>&bull; Dumbo<br>&bull; "it's a small world"<br>&bull; Mad Tea Party<br>&bull; Winnie the Pooh<br>&bull; Peter Pan's Flight<br>&bull; Prince Charming Regal Carrousel<br>&bull; Seven Dwarfs Mine Train<br>&bull; Under the Sea<br>&bull; Mickey's PhilharMagic|&bull; Be Our Guest Restaurant<br>&bull; Cheshire Cafe<br>&bull; Cinderella's Royal Table<br>&bull; The Friary's Nook<br>&bull; Gaston's Tavern<br>&bull; Pinocchio Village Haus<br>&bull; Prince Eric's Village Market<br>&bull; Storybook Treats| |
-|Frontierland|&bull; Big Thunder Mountain Railroad<br>&bull; Country Bear Jamboree<br>&bull; Tiana's Bayou Adventure<br>&bull; Tom Sawyer Island|&bull; Golden Oak Outpost<br>&bull; Pecos Bill Tall Tale Inn and Cafe<br>&bull; Westward Ho| |
-|Liberty Square|&bull; Hall of Presidents<br>&bull; Haunted Mansion<br>&bull; Liberty Square Riverboat|&bull; Columbia Harbour House<br>&bull; The Diamond Horseshoe<br>&bull; Liberty Square Market<br>&bull; Liberty Tree Tavern<br>&bull; Sleepy Hollow| |
-|Tomorrowland|Astro Orbiter<br>&bull; Buzz Lightyear<br>&bull; Monsters Inc.<br>&bull; Space Mountain<br>&bull; Tomorrowland Speedway<br>&bull; PeopleMover<br>&bull; TRON<br>&bull; Carousel of Progress|&bull; Auntie Gravity's Galactic Goodies<br>&bull; Cool Ship<br>&bull; Cosmic Ray's Starlight Cafe<br>&bull; The Lunching Pad<br>&bull; Tomorrowland Terrace Restaurant| |
-

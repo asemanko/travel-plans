@@ -39,10 +39,17 @@
 
 ### Park
 
-- Bag/Backpack (?)
-- Phone, cable, small charger, battery
-- Sunscreen
-- Poncho
+- Phone (1 ea)
+- Cable (2)
+- Charger
+- Battery
+- Poncho (1 ea)
+- AirTag (1 ea)
+- Sunscreen packets
+- Tylenol / Advil packets
+- Wet wipe packets
+- Snacks (2 ea)
 - Ziplocks
-- Water bottle
+- Sunglasses (optional)
+- Collapsible water bottles (only if using backpack)
 
