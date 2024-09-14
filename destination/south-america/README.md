@@ -7,8 +7,11 @@
 - [Chile](https://github.com/asemanko/travel-plans/blob/master/destination/south-america/chile/README.md)
 - [Colombia](https://github.com/asemanko/travel-plans/blob/master/destination/south-america/colombia/README.md)
 - [Ecuador](https://github.com/asemanko/travel-plans/blob/master/destination/south-america/ecuador/README.md)
+- French Guiana
+- Guyana
 - [Paraguay](https://github.com/asemanko/travel-plans/blob/master/destination/south-america/paraguay/README.md)
 - [Peru](https://github.com/asemanko/travel-plans/blob/master/destination/south-america/peru/README.md)
+- Suriname
 - [Uruguay](https://github.com/asemanko/travel-plans/blob/master/destination/south-america/uruguay/README.md)
 - [Venezuela](https://github.com/asemanko/travel-plans/blob/master/destination/south-america/venezuela/README.md)
 
