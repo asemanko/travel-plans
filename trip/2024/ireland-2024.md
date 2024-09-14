@@ -5,6 +5,7 @@
   - Guinness Storehouse
   - 
 - Kilkenny
+- Sheep dog demonstration
 - Galway
 
 
