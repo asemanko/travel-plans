@@ -1,11 +1,6 @@
 # Travel Plans
 
 
-### Trips
-
-- [Disney World 2024](https://github.com/asemanko/travel-plans/blob/master/trip/2024/disney-world/README.md)
-
-
 ### Destinations
 
 - North America
@@ -18,6 +13,11 @@
 - [Europe](https://github.com/asemanko/travel-plans/blob/master/destination/europe/README.md)
 - [Africa](https://github.com/asemanko/travel-plans/blob/master/destination/africa/README.md)
 - [Asia](https://github.com/asemanko/travel-plans/blob/master/destination/asia/README.md)
-- Australia & Oceania
+- [Oceania](https://github.com/asemanko/travel-plans/blob/master/destination/oceania/README.md)
 - [Antarctica](https://github.com/asemanko/travel-plans/blob/master/destination/antarctica/README.md)
+
+
+### Trips
+
+- [Disney World 2024](https://github.com/asemanko/travel-plans/blob/master/trip/2024/disney-world/README.md)
 
