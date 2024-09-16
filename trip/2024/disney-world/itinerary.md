@@ -1,8 +1,8 @@
 ## WDW 2024 Itinerary
 
 
-|   |Day|Main Activities|Secondary|
-|---|---|-------------|---------|
+|   |Day| Main Activities | Secondary |
+|---|---|-----------------|-----------|
 | 1 |Thu|Fly in| |
 | 2 |Fri|Park 1| |
 | 3 |Sat|Park 2| |
@@ -14,8 +14,8 @@
 
 ### Day 1 - Thursday
 
-|Time|Activity| |
-|----|-------------|---|
+| Time  | Activity    | |
+|-------|-------------|---|
 |8am |Arrive at airport | |
 |10am|Flight departure| |
 |1pm |Flight arrival| |
@@ -24,35 +24,35 @@
 
 ### Day 2 - Friday
 
-|Time|Activity| |
-|----|-------------|---|
+| Time  | Activity    | |
+|-------|-------------|---|
 |?   | | |
 
 
 ### Day 3 - Saturday
 
-|Time|Activity| |
-|----|-------------|---|
+| Time  | Activity    | |
+|-------|-------------|---|
 |?   | | |
 
 
 ### Day 4 - Sunday
 
-|Time|Activity| |
-|----|-------------|---|
-|?   | | |
+| Time  | Activity    | |
+|-------|-------------|---|
+|4:25pm|Eagles at Ravens| |
 
 
 ### Day 5 - Monday
 
-|Time|Activity| |
-|----|-------------|---|
+| Time  | Activity    | |
+|-------|-------------|---|
 |?   | | |
 
 
 ### Day 6 - Tuesday
 
-| Time  |Activity| |
+| Time  | Activity    | |
 |-------|-------------|---|
 |12:15pm|Arrive at airport | |
 |2:15pm |Flight departure| |
