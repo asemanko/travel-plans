@@ -4,7 +4,7 @@
 - ~~Book hotel~~
 - ~~Buy park tickets~~
 - ~~Purchase flights~~
-- Dining reservations (60 days in advance)
+- Dining reservations (60 days in advance, ~Sep 29)
 - Purchase and make Lightning Lane selections
 - Watch Disney movies
 - Buy items
