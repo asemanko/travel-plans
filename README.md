@@ -1,6 +1,12 @@
 # Travel Plans
 
 
+### Trips
+
+- [Disney World 2024](https://github.com/asemanko/travel-plans/blob/master/trip/2024/disney-world/README.md)
+- [Pitt to DC Bike Ride](https://github.com/asemanko/travel-plans/blob/master/trip/2024/pitt-dc-bike-ride/README.md)
+
+
 ### Destinations
 
 - North America
@@ -15,9 +21,4 @@
 - [Asia](https://github.com/asemanko/travel-plans/blob/master/destination/asia/README.md)
 - [Oceania](https://github.com/asemanko/travel-plans/blob/master/destination/oceania/README.md)
 - [Antarctica](https://github.com/asemanko/travel-plans/blob/master/destination/antarctica/README.md)
-
-
-### Trips
-
-- [Disney World 2024](https://github.com/asemanko/travel-plans/blob/master/trip/2024/disney-world/README.md)
 
