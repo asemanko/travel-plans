@@ -1,33 +1,6 @@
 # C&O Canal
 
 
-
-
-
-| | | | |
-|---|---|---|---|
-| |Cumberland| | |
-| |Oldtown | | |
-| |Paw Paw| | |
-| |Little Orleans| | |
-| |Hancock| | |
-| |Big Pool| | |
-| |Williamsport| | |
-| |Downsville| | |
-| |Shepherdstown| | |
-| |Harpers Ferry| | |
-| |Brunswick| | |
-| |Point of Rocks| | |
-| |Dickerson| | |
-| |Leesburg / Whites Ferry| | |
-| |Seneca| | |
-| |Great Falls| | |
-| |Bethesda| | |
-| |Georgetown| | |
-
-
-
-
 |Time |Miles|Gain|Loss| Stop          |&Delta;| +  | -  |Dur |
 |----:|----:|---:|---:|---------------|------:|---:|---:|----|
 | 6:00|  0.0|   0|   0|Hancock        |     0 |   0|   0|0.00|124.5
@@ -53,7 +26,6 @@ https://www.canaltrust.org/
 
 https://bikecando.com/
 
-https://www.nps.gov/choh/planyourvisit/conditions.htm
-
+https://www.nps.gov/choh/index.htm
 
 https://gaptrail.org/things-to-do/recommended-trips/ride-of-your-life/
