@@ -12,12 +12,12 @@
 
 ### Itinerary
 
-- [Day 1, Thu - Fly in](https://github.com/asemanko/travel-plans/blob/master/trip/2024/disney-world/itin/day1.md)
-- [Day 2, Fri - Magic Kingdom, Hollywood Studios](https://github.com/asemanko/travel-plans/blob/master/trip/2024/disney-world/itin/day2.md)
-- [Day 3, Sat - Epcot, Magic Kingdom](https://github.com/asemanko/travel-plans/blob/master/trip/2024/disney-world/itin/day3.md)
-- [Day 4, Sun - Animal Kingdom, Epcot](https://github.com/asemanko/travel-plans/blob/master/trip/2024/disney-world/itin/day4.md)
-- [Day 5, Mon - Hollywood Studios, Magic Kingdom, Epcot](https://github.com/asemanko/travel-plans/blob/master/trip/2024/disney-world/itin/day5.md)
-- [Day 6, Tue - Fly out](https://github.com/asemanko/travel-plans/blob/master/trip/2024/disney-world/itin/day6.md)
+- [Day 1, Thu - Arrival](https://github.com/asemanko/travel-plans/blob/master/trip/2024/disney-world/itin/day1.md)
+- [Day 2, Fri - Magic Kingdom & Hollywood Studios](https://github.com/asemanko/travel-plans/blob/master/trip/2024/disney-world/itin/day2.md)
+- [Day 3, Sat - Epcot & Magic Kingdom](https://github.com/asemanko/travel-plans/blob/master/trip/2024/disney-world/itin/day3.md)
+- [Day 4, Sun - Animal Kingdom & Epcot](https://github.com/asemanko/travel-plans/blob/master/trip/2024/disney-world/itin/day4.md)
+- [Day 5, Mon - Hollywood Studios, Magic Kingdom, & Epcot](https://github.com/asemanko/travel-plans/blob/master/trip/2024/disney-world/itin/day5.md)
+- [Day 6, Tue - Departure](https://github.com/asemanko/travel-plans/blob/master/trip/2024/disney-world/itin/day6.md)
 
 
 ### Parks
@@ -32,3 +32,4 @@
 
 - [Budget](https://github.com/asemanko/travel-plans/blob/master/trip/2024/disney-world/budget.md)
 - [Lightning Lane link](https://disneyworld.disney.go.com/lightning-lane-passes/)
+

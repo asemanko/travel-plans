@@ -1,16 +1,48 @@
-## Day 3 - Sunday
+## Day 4 - Sunday, Dec 1
+
+Animal Kingdom & Epcot
 
 
+### Agenda
+
+|  Time | Event                     | Notes |
+|------:|---------------------------|-------|
+|  7:00 | Guardians virtual queue   |       |
+|  7:30 | AK rope drop              |       |
+|       | Kusafiri Coffee Shop breakfast   |       |
+|  8:00 | Kili Safari, Everest      |       |
+|       | DinoLand                  |       |
+|       | Kali River, Everest, Feathered Friends|       |
+|       | Asia                      |       |
+|_12:00_| Yak & Yeti Cafe           |       |
+|       | Africa                    |       |
+|_15:00_| Rafiki's                  | Noel & Andy       |
+|_15:00_| Na'vi River, Avatar       | Joey, Holly, & Nick   |
+|       | Bus to Epcot              | Optional break at Dolphin|
+| 18:35 | Biergarten                |       |
+|       | Walk/ferry to Dolphin     |       |
 
 
-| Time  | Event    | Notes |
-|-------|-------------|-------|
-|<small>7:01am</small>|<small>Sunrise</small>|
-|<small>7:30am</small>|<small>AK Opening</small>|
-|<small>8:30am</small>|<small>MK, E, HS Opening</small>|
-|<small>4:25pm|<small>Eagles at Ravens</small>|
-|<small>5:28pm</small>|<small>Sunset</small>|
-|<small>6:00pm</small>|<small>AK, MK closing</small>|
-|<small>9:00pm</small>|<small>E, HS closing</small>|
+### Events
 
+| Time | Event                       |
+|-----:|-----------------------------|
+|  7:00| Virtual queue               |
+|  7:01| Sunrise                     |
+|  7:30| AK early entry              |
+|  8:00| Kilimanjaro Safari opens    |
+| 14:15| Winged Encounters last show |
+| 15:30| Feathered Friends last show |
+| 16:00| Lion King last show         |
+| 16:25| Eagles at Ravens            |
+| 16:30| Wildlife Expresss last train|
+| 17:28| Sunset                      |
+| 18:00| AK closes                   |
+| 21:00| Luminous                    |
+| 21:00| Epcot closes                |
+
+
+### Notes
+
+- Group shirt: 
 

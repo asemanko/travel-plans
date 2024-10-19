@@ -1,5 +1,6 @@
 # Epcot
 
+- [Official Website](https://disneyworld.disney.go.com/destinations/epcot/)
 - [Attractions](https://github.com/asemanko/travel-plans/blob/master/destination/north-america/usa/fl/disney-world/epcot/epcot-attractions.md)
 - [Dining](https://github.com/asemanko/travel-plans/blob/master/destination/north-america/usa/fl/disney-world/epcot/epcot-dining.md)
 

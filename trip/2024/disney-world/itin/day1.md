@@ -1,13 +1,22 @@
-## Day 0 - Thursday
+## Day 1 - Thursday, Nov 28
+
+Arrival
 
 
-| Time | Event         | Notes |
-|-----:|------------------|-------|
-|8:00|Arrive at airport | |
-|10:00|Flight departure  | |
-|13:00|Flight arrival    | |
-|14:55|Ale & Compass    | |
-|16:00|Hotel check-in    | |
+### Agenda
 
-<small>sunset: 5:29pm</small>
+| Time | Event             | Notes |
+|-----:|-------------------|-------|
+|  8:00|Arrive at airport  | |
+| 10:00|Flight departure   | |
+| 13:00|Flight arrival     | |
+| 14:55|Ale & Compass      | |
+| 16:00|Hotel check-in     | |
+
+
+### Events
+
+| Time | Event        |
+|-----:|--------------|
+| 17:29| Sunset       |
 

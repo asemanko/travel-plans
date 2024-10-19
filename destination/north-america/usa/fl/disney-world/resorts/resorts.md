@@ -15,10 +15,20 @@
 - Old Key West Resort
 - Polynesian Village Resort
 - Pop Century Resort
-- Saratoga Springs Resort
+- [Saratoga Springs Resort](https://disneyworld.disney.go.com/resorts/saratoga-springs-resort-and-spa/)
 - Port Orleans Resort - Riverside
 - Port Orleans Resort - French Quarter
 - Riviera Resort
 - Yacht Club Resort
 - Wilderness Lodge
+
+
+
+
+
+Other
+
+- [Dolphin Hotel](https://disneyworld.disney.go.com/resorts/dolphin-hotel/)
+- [Swan Hotel](https://disneyworld.disney.go.com/resorts/swan-hotel/)
+- [Swan Reserve](https://disneyworld.disney.go.com/resorts/swan-reserve/)
 

@@ -1,5 +1,6 @@
 # Magic Kingdom
 
+- [Official Website](https://disneyworld.disney.go.com/destinations/magic-kingdom/)
 - [Attractions](https://github.com/asemanko/travel-plans/blob/master/destination/north-america/usa/fl/disney-world/magic-kingdom/magic-kingdom-attractions.md)
 - [Dining](https://github.com/asemanko/travel-plans/blob/master/destination/north-america/usa/fl/disney-world/magic-kingdom/magic-kingdom-dining.md)
 
