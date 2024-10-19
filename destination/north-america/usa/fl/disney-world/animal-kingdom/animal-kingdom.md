@@ -1,5 +1,6 @@
 # Animal Kingdom
 
+- [Official Website](https://disneyworld.disney.go.com/destinations/animal-kingdom/)
 - [Attractions](https://github.com/asemanko/travel-plans/blob/master/destination/north-america/usa/fl/disney-world/animal-kingdom/animal-kingdom-attractions.md)
 - [Dining](https://github.com/asemanko/travel-plans/blob/master/destination/north-america/usa/fl/disney-world/animal-kingdom/animal-kingdom-dining.md)
 

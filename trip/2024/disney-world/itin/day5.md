@@ -1,15 +1,36 @@
-## Day 4 - Monday
+## Day 5 - Monday, Dec 2
+
+Hollywood Studios, Magic Kingdom, & Epcot
 
 
-| Time  | Event    | Notes |
-|-------|-------------|-------|
-|<small>7:01am</small>|<small>Sunrise</small>|
-|<small>7:30am |<small>AK Opening</small>|
-|<small>8:30am |<small>MK, E, HS Opening</small>|
-|?      | | |
-|<small>5:28pm</small>|<small>Sunset</small>|
-|<small>6:00pm |<small>AK closing</small>|
-|<small>7:00pm |<small>HS closing</small>|
-|<small>9:00pm |<small>MK closing</small>|
-|<small>11:00pm|<small>E closing</small>|
+### Agenda
+
+| Time | Event                      | Notes |
+|-----:|----------------------------|-------|
+|  8:30| HS rope drop               |       |
+|      |                            |       |
+| 11:00| Sci-Fi Dine-In Theater     |       |
+|      |                            |       |
+|      | Bus to MK or Dolphin       |       |
+|      |                            |       |
+|      | MK                         |       |
+|      | Monorail to Epcot          |       |
+| 18:10| Space 220 Lounge           | 3 reservations      |
+| 19:50| Shiki-Sai: Sushi Izakaya   | Holly & Joey |
+|      | Walk to Dolphin            | Optional ferry  |
+
+
+### Events
+
+| Time | Event                |
+|-----:|----------------------|
+|  7:01| Sunrise              |
+|  8:30| HS early entry       |
+|  9:00| HS opens             |
+| 17:28| Sunset               |
+| 19:00| HS closes            |
+| 21:00| MK closes            |
+| 21:00| Luminous             |
+| 21:30| Epcot extended hours |
+| 23:00| Epcot closes         |
 
