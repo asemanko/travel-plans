@@ -1,3 +1,10 @@
 # Morocco
 
 
+- Casablanca
+- Marakesh
+- Tangier
+
+
+
+
