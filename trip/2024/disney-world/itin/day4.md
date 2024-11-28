@@ -5,22 +5,25 @@ Animal Kingdom & Epcot
 
 ### Agenda
 
-|  Time | Event                     | Notes |
-|------:|---------------------------|-------|
-|  7:00 | Guardians virtual queue   |       |
-|  7:30 | AK rope drop              |       |
-|       | Kusafiri Coffee Shop breakfast   |       |
-|  8:00 | Kili Safari, Everest      |       |
-|       | DinoLand                  |       |
-|       | Kali River, Everest, Feathered Friends|       |
-|       | Asia                      |       |
-|_12:00_| Yak & Yeti Cafe           |       |
-|       | Africa                    |       |
-|_15:00_| Rafiki's                  | Noel & Andy       |
-|_15:00_| Na'vi River, Avatar       | Joey, Holly, & Nick   |
-|       | Bus to Epcot              | Optional break at Dolphin|
-| 18:35 | Biergarten                |       |
-|       | Walk/ferry to Dolphin     |       |
+|    Time | Event                          | Notes                     |
+|--------:|--------------------------------|---------------------------|
+|    7:00 | Guardians virtual queue        |                           |
+|    7:30 | AK rope drop                   |                           |
+|         | Kusafiri Coffee Shop breakfast |                           |
+|    8:20 | Kili Safari LL                 |                           |
+|         | Everest                        |                           |
+|   11:05 | Kali River LL                  |                           |
+|         | Feathered Friends              |                           |
+|         | DinoLand                       |                           |
+|         | Asia                           |                           |
+| _12:00_ | Yak & Yeti Cafe                |                           |
+|         | Africa                         |                           |
+| _15:00_ | Rafiki's                       | Noel & Andy               |
+|   15:00 | Na'vi River                    | Joey, Holly, & Nick       |
+|   15:35 | Avatar                         | Joey, Holly, & Nick       |
+|         | Bus to Epcot                   | Optional break at Dolphin |
+|   18:35 | Biergarten                     |                           |
+|         | Walk/ferry to Dolphin          |                           |
 
 
 ### Events
